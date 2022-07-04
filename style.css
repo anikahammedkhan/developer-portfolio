@@ -13,6 +13,7 @@ h2 {
 
 p {
     font-size: 25px;
+    color: dimgray;
 }
 
 .name {
@@ -46,4 +47,10 @@ section {
 .first {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.second {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
